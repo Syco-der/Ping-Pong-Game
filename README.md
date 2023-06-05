@@ -1,6 +1,6 @@
 # The Ping Pong Game
 
-<img src="html/preview.png" alt="Ping Pong Game Preview" width="600">
+<img src="img/preview.png" alt="Ping Pong Game Preview" width="600">
 
 Welcome to **The Ping Pong Game**, a classic arcade game implemented using HTML, CSS, and JavaScript. Prepare for an exciting and addictive gaming experience!
 
